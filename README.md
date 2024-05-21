@@ -13,3 +13,11 @@
 │   ├── plot.sh # bash script for paper plot generation
 ```
 
+## Usage
+
+Install requirements:
+`pip install requirements.txt`
+
+Run script to generate plots from the paper (by deafault prompts will be saved in the working directory):
+`bash scripts/plot.sh`
+
