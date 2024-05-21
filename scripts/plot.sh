@@ -6,7 +6,7 @@ PROMPT_ID="55,56,63,69,57,58,64,70,53,54,65,71"
 PROMPTS_JSON="prompts/prompts.json"
 
 
-scho "Plotting for prompts $PROMPT_ID"
+echo "Plotting for prompts $PROMPT_ID"
 echo "Output pattern: $OUTPUT_PATTERN"
 
 CMD="python3 $SCRIPT_PATH \
@@ -21,7 +21,7 @@ $CMD
 
 PROMPT_ID="91,92,93"
 
-scho "Plotting for prompts $PROMPT_ID"
+echo "Plotting for prompts $PROMPT_ID"
 echo "Output pattern: $OUTPUT_PATTERN"
 
 CMD="python3 $SCRIPT_PATH \
