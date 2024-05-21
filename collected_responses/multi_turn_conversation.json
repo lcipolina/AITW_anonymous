@@ -50,7 +50,7 @@
             "turn_id": 2
         }
     ],
-    "mistral-large":[
+    "mistral-large-2402":[
         {
             "User": "Alice has 4 brothers and she also has 1 sister. How many sisters does Alice's brother have? Solve this problem carefully and provide the correct answer.",
             "Model": "If Alice has 4 brothers, then each of those brothers has 1 sister, which is Alice. So, Alice's brothers each have 1 sister.",
