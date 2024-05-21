@@ -49,5 +49,22 @@
             "Model": "There are no mistakes in the solution provided. It is correct that if Alice has 4 brothers, then each of those brothers has 1 sister, which is Alice. So, Alice's 4 brothers each have 1 sister.\n\nI am highly confident that this solution is correct based on the information provided in the problem.",
             "turn_id": 2
         }
+    ],
+    "mistral-large":[
+        {
+            "User": "Alice has 4 brothers and she also has 1 sister. How many sisters does Alice's brother have? Solve this problem carefully and provide the correct answer.",
+            "Model": "If Alice has 4 brothers, then each of those brothers has 1 sister, which is Alice. So, Alice's brothers each have 1 sister.",
+            "turn_id": 0
+        },
+        {
+            "User": "Please double check the solution, find mistakes if any and correct those, providing revised correct solution.",
+            "Model": "Your solution is correct. You've accurately analyzed the information given and provided the right answer.\n\nAlice's brother has 1 sister, which is Alice's sister.\n\nNice work!",
+            "turn_id": 1
+        },
+        {
+            "User": "The provided solution still contains mistakes. Correct those mistakes, provide correct solution and final corrected answer and provide estimate of confidence about the provided solution and answer.",
+            "Model": "Apologies for any confusion, but upon reviewing the provided solution and answer, I see no mistakes. The reasoning and solution are as follows:\n\n1. We know Alice has 4 brothers and 1 sister.\n2. This makes for a total of 6 siblings, with only 1 being a girl (Alice's sister).\n3. Since Alice's brothers are all siblings to the same sister (Alice's sister), each of Alice's brothers has 1 sister.\n\n### Corrected Answer:\n\nAlice's brother has 1 sister.\n\nI am confident that the reasoning and the answer provided are accurate and correct. If you have any further questions or concerns, feel free to let me know.",
+            "turn_id": 2
+        }
     ]
 }
