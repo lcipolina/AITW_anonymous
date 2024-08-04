@@ -343,17 +343,6 @@
     {
         "model":"claude-3-opus-20240229",
         "prompt":"Alice has 2 sisters and she also has 4 brothers. How many sisters does Alice's brother have? Before providing answer to this problem, think carefully and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
-        "model_response":"Let's think through this step by step:  1. Alice has 2 sisters and 4 brothers. This means there are a total of 7 children in the family, including Alice.  2. We're asked about how many sisters Alice's brother has. Let's consider this from one of her brothers' perspectives.  3. From a brother's point of view:    - He has 4 brothers (including himself).    - Since there are 7 children total, and he has 4 brothers, the remaining children must be sisters.    - The number of remaining children (sisters) is: 7 - 4 = 3.  4. Therefore, each of Alice's brothers has 3 sisters.  Let's double-check: - Alice has 2 sisters, so her brothers must have 3 sisters (Alice and her 2 sisters). - This matches our answer, so we can be confident in the solution.  ### Answer: Each of Alice's brothers has 3 sisters.",
-        "parsed_answer":3.0,
-        "correct":true,
-        "right_answer":3,
-        "correct_reasoning":"unknown",
-        "manual_inspection":false,
-        "prompt_id":58.0
-    },
-    {
-        "model":"claude-3-opus-20240229",
-        "prompt":"Alice has 2 sisters and she also has 4 brothers. How many sisters does Alice's brother have? Before providing answer to this problem, think carefully and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
         "model_response":"Let's think through this carefully:  1. Alice has 2 sisters and 4 brothers. This means that there are 3 girls (including Alice) and 4 boys in the family.  2. We need to find out how many sisters Alice's brother has.  3. Since there are 3 girls in the family, and one of them is Alice, that means Alice's brother has 2 sisters (the other two girls).  4. It doesn't matter which brother we consider, as all of Alice's brothers have the same number of sisters.  So, after double-checking the reasoning, we can confidently provide the answer.  ### Answer: Alice's brother has 2 sisters.",
         "parsed_answer":2.0,
         "correct":false,
