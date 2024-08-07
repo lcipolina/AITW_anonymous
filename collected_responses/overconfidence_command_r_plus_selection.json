@@ -1,0 +1,101 @@
+[
+    {
+        "model":"command-r-plus",
+        "prompt":"Alice has four brothers and she also has a sister. How many sisters does Alice's brother have? Solve the problem by taking care not to make any mistakes. Express your level of confidence in the provided solution as precisely as possible.",
+        "model_response":"They all have the same parents, so Alice's brothers have one sister, which is Alice's sister as well.   I am 100% confident in this solution. It is a straightforward problem, and the answer is definite and unambiguous.",
+        "parsed_answer":null,
+        "correct":false,
+        "right_answer":2,
+        "correct_reasoning":"unknown",
+        "manual_inspection":false,
+        "prompt_id":9.0
+    },
+    {
+        "model":"command-r-plus",
+        "prompt":"Alice has four brothers and she also has a sister. How many sisters does Alice's brother have? Solve the problem by taking care not to make any mistakes. Express your level of confidence in the provided solution as precisely as possible.",
+        "model_response":"Alice has one sister. Therefore, Alice's brothers each have one sister as well.   I am confident of the solution.",
+        "parsed_answer":null,
+        "correct":false,
+        "right_answer":2,
+        "correct_reasoning":"unknown",
+        "manual_inspection":false,
+        "prompt_id":9.0
+    },
+    {
+        "model":"command-r-plus",
+        "prompt":"Alice has four brothers and she also has a sister. How many sisters does Alice's brother have? Solve the problem by taking care not to make any mistakes. Express your level of confidence in the provided solution as precisely as possible.",
+        "model_response":"Alice has one sister, and since the question states that she has brothers, it can be concluded that this sister is the only sister that Alice's brothers have as well. Therefore, Alice's brothers have one sister.  I am very confident that this solution is correct based on the information provided.",
+        "parsed_answer":null,
+        "correct":false,
+        "right_answer":2,
+        "correct_reasoning":"unknown",
+        "manual_inspection":false,
+        "prompt_id":9.0
+    },
+    {
+        "model":"command-r-plus",
+        "prompt":"Alice has four brothers and she also has a sister. How many sisters does Alice's brother have? Solve the problem by taking care not to make any mistakes. Express your level of confidence in the provided solution as precisely as possible.",
+        "model_response":"They all share the same siblings, so if Alice has one sister, then each of her brothers also has one sister, which is Alice's sister.   Therefore, Alice's brothers have one sister each. The solution is straightforward, and I am highly confident that it is correct.",
+        "parsed_answer":null,
+        "correct":false,
+        "right_answer":2,
+        "correct_reasoning":"unknown",
+        "manual_inspection":false,
+        "prompt_id":9.0
+    },
+    {
+        "model":"command-r-plus",
+        "prompt":"Alice has four brothers and she also has a sister. How many sisters does Alice's brother have? Solve the problem by taking care not to make any mistakes. Express your level of confidence in the provided solution as precisely as possible.",
+        "model_response":"They all have the same parents, so Alice's brothers have one sister, which is Alice's sister as well.   I am confident in this answer.",
+        "parsed_answer":null,
+        "correct":false,
+        "right_answer":2,
+        "correct_reasoning":"unknown",
+        "manual_inspection":false,
+        "prompt_id":9.0
+    },
+    {
+        "model":"command-r-plus",
+        "prompt":"Alice has 4 brothers and she also has 1 sister. How many sisters does Alice's brother have? Solve the problem by taking care not to make any mistakes. Express your level of confidence in the provided solution as precisely as possible.",
+        "model_response":"Alice has one sister, and since the question states that she has four brothers, it can be concluded that Alice's four brothers have the same one sister, which is Alice.   Therefore, Alice's brothers have one sister, and the answer is one. I am confident in this solution.",
+        "parsed_answer":null,
+        "correct":false,
+        "right_answer":2,
+        "correct_reasoning":"unknown",
+        "manual_inspection":false,
+        "prompt_id":11.0
+    },
+    {
+        "model":"command-r-plus",
+        "prompt":"Alice has 4 brothers and she also has 1 sister. How many sisters does Alice's brother have? Solve the problem by taking care not to make any mistakes. Express your level of confidence in the provided solution as precisely as possible.",
+        "model_response":"Alice has one sister, so each of her brothers also has one sister. Therefore, Alice's brothers have one sister each.   I am highly confident that this solution is correct, and the logic is straightforward.",
+        "parsed_answer":null,
+        "correct":false,
+        "right_answer":2,
+        "correct_reasoning":"unknown",
+        "manual_inspection":false,
+        "prompt_id":11.0
+    },
+    {
+        "model":"command-r-plus",
+        "prompt":"Alice has 4 brothers and she also has 1 sister. How many sisters does Alice's brother have? Solve the problem by taking care not to make any mistakes. Express your level of confidence in the provided solution as precisely as possible.",
+        "model_response":"Alice has one sister, so each of her brothers also has one sister. Therefore, Alice's brothers have one sister each. The answer is one, and I am absolutely sure about it.",
+        "parsed_answer":null,
+        "correct":false,
+        "right_answer":2,
+        "correct_reasoning":"unknown",
+        "manual_inspection":false,
+        "prompt_id":11.0
+    },
+    {
+        "model":"command-r-plus",
+        "prompt":"Alice has 4 brothers and she also has 1 sister. How many sisters does Alice's brother have? Solve the problem by taking care not to make any mistakes. Express your level of confidence in the provided solution as precisely as possible.",
+        "model_response":"Alice has one sister, and since the question states that she has four brothers, it can be concluded that Alice's four brothers have one sister each, so they have one sister in total.   I am highly confident that the answer is correct, given the information provided in the question.",
+        "parsed_answer":null,
+        "correct":false,
+        "right_answer":2,
+        "correct_reasoning":"unknown",
+        "manual_inspection":false,
+        "prompt_id":11.0
+    }
+]
