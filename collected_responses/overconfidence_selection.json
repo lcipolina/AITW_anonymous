@@ -66,17 +66,6 @@
         "prompt_id":64.0
     },
     {
-        "model":"codellama-34b-instruct",
-        "prompt":"Alice has 4 brothers and she also has 1 sister. How many sisters does Alice's brother have? Solve this problem and provide the final answer in following form: \"### Answer: \".",
-        "model_response":"  When we say Alice has 4 brothers, she doesn't have only brothers but she also has a sister. Let us assume her sister's name is Emily. Here is what we know:  1. Alice has 4 brothers, and each brother has a sister. 2. The sister of Alice's brother is not Alice. 3. The sister of Alice's brother is not Emily.   Therefore, Alice's brother has Alice as a sister. Here are a few possibilities:  1. Alice has one sister, Emily, and three brothers, John, Michael, and Robert. 2. Alice has one sister, Emily, and four brothers, John, Michael, Robert, and Paul.  Using the fact that Alice has four brothers, here's how the possible outcomes look explicitly:  1. Alice, John, Michael, Robert, Emily. 2. Alice, John, Michael, Robert, Emily, Paul.  With the given information, we can confidently state that Alice's brother has Alice as a sister.  The final answer is:  Alice.",
-        "parsed_answer":4.0,
-        "correct":false,
-        "right_answer":2,
-        "correct_reasoning":"unknown",
-        "manual_inspection":false,
-        "prompt_id":69.0
-    },
-    {
         "model":"olmo-7b-instruct",
         "prompt":"Alice has 3 brothers and she also has 6 sisters. How many sisters does Alice's brother have? Before providing answer to this problem, think carefully and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
         "model_response":"### Answer: 6  Alice has 3 brothers which are half-sisters to her. Since each brother has one sister, Alice's brothers have a total of 3 * 6 = 18 sisters. This counts both Alice's sisters and her brothers' sisters, so we've found 18 total sisters, now we simply have to count the ones belonging exclusively to her brothers, which means we'll only look at the 6 sisters that each brother has, and we find that 6 * (6 - 1) = 6 * 5 = 30 of the brothers' sisters belong to their respective brothers, so now we have 18 + 30 = 48 sisters belonging to Alice's brothers, making the total count 48 + 18 = 68 total sisters that Alice's brothers have.  This is double-checking myself, but I have not found any mistakes, so I am confident in this answer.",
