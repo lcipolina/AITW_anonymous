@@ -9,7 +9,7 @@ from matplotlib.font_manager import FontProperties
 import argparse
 from scipy.optimize import minimize
 from scipy import optimize
-from adjustText import adjust_text
+# from adjustText import adjust_text
 import re
 
 
