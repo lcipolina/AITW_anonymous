@@ -426,12 +426,10 @@ def plot_response_distribution_for_multiple_ids(
         axs[i].set_yticks(np.arange(0, 1.1, 0.1))
         axs[i].set_ylim(0, 1)
         axs[i].set_xlim(-1, 8)
-        # axs[i].set_xlim(/-1, max_num_distinct)
 
     save_path = save_path.format("_".join(prompt_ids))
     plt.legend()
     plt.tight_layout()
-    # plt.legend(["Incorrect", "Correct",])
     plt.savefig(save_path)
 
 def get_model_data(df, model_name):
@@ -439,6 +437,8 @@ def get_model_data(df, model_name):
     data = df.correct.apply(int).values
 
     n = len(data)
+    if n == 0:
+        return np.array([])
     p = data.sum()/n
     n = 1
     mean = n*p
