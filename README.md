@@ -8,6 +8,7 @@
 ├── models_data # data on benchmarks and additional info like HF Hub models aliases
 ├── prompts
 │   ├── prompts.json
+├── models # folder of model lists
 ├── scripts
 │   ├── plot.py
 │   ├── plot.sh # bash script for paper plot generation
@@ -20,4 +21,3 @@ Install requirements:
 
 Run script to generate plots from the paper (by deafault prompts will be saved in the working directory):
 `bash scripts/plot.sh`
-
