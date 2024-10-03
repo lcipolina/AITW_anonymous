@@ -177,7 +177,7 @@ CMD="python3 $SCRIPT_PATH \
 
 $CMD && echo "Plotting done" || echo "Plotting failed"
 
-# Fig. 7 - stanadtized benchmarks vs AIW (55 56 63 69 57 58 64 70 53 54 65 71)
+# Fig. 7 - stanadtized benchmarks vs AIW (55 56 63 69 57 58 64 70)
 # Colors can differ from the original plot
 OUTPUT_PATTERN="fig7_{}.pdf"
 MODEL_LIST="models/models_plot_set_v1.json"
@@ -185,7 +185,7 @@ MODEL_LIST="models/models_plot_set_v1.json"
 CMD="python3 $SCRIPT_PATH \
     --output $OUTPUT_PATTERN \
     --jsons_dir $JSONS_DIR \
-    --prompt_ids 55 56 63 69 57 58 64 70 53 54 65 71 \
+    --prompt_ids 55 56 63 69 57 58 64 70  \
     --title "" \
     --prompts_json $PROMPTS_JSON \
     --model_list_path $MODEL_LIST \
