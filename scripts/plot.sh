@@ -3,7 +3,7 @@
 
 
 
-SCRIPT_PATH="scripts/plot_resp.py"
+SCRIPT_PATH="scripts/plot_figures.py"
 PROMPTS_JSON="prompts/prompts.json"
 JSONS_DIR="collected_responses"
 
