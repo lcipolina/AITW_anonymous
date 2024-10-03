@@ -1,12 +1,9 @@
 # Examples how to produce various plots from raw data, as used in the paper   
 
 
-
-
 SCRIPT_PATH="scripts/plot_figures.py"
 PROMPTS_JSON="prompts/prompts.json"
 JSONS_DIR="collected_responses"
-
 
 
 # Plot Fig. 1 (main boxplot)
@@ -23,16 +20,7 @@ JSONS_DIR="collected_responses"
 # prompt list is assumed to be in --prompts_json PATH
 
 
-
-SCRIPT_PATH="scripts/plot_figures.py"
-PROMPTS_JSON="prompts/prompts.json"
-JSONS_DIR="collected_responses"
-
-
-
-# Plot version similar to Fig. 1 (boxplot)
-
-OUTPUT_PATTERN="fig1_{}.pdf"
+OUTPUT_PATTERN="fig1_AIW_correct_response_rate_avg_STANDARD_THINKING_Var_1-4_{}.pdf"
 MODEL_LIST="models/models_plot_set_FULL.json"
 
 CMD="python3 $SCRIPT_PATH \
@@ -60,7 +48,7 @@ $CMD && echo "Plotting done" || echo "Plotting failed"
 # raw data is assumed to be in --jsons_dir PATH
 # prompt list is assumed to be in --prompts_json PATH
 
-OUTPUT_PATTERN="fig1_barplot_AIW_fluctuations_Var_1-4_STANDARD_{}.pdf"
+OUTPUT_PATTERN="fig1_barplot_AIW_fluctuations_Var_1-4_STANDARD_GPT-4_{}.pdf"
 MODEL_LIST="models/gpt-4.json"
 
 CMD="python3 $SCRIPT_PATH \
@@ -198,7 +186,7 @@ $CMD && echo "Plotting done" || echo "Plotting failed"
 # AIW THINKING v2
 # prompt IDs: 205 206 187 188 
 
-OUTPUT_PATTERN="fig6b_{}.pdf"
+OUTPUT_PATTERN="fig6b_AIW_THINKING_v2_{}.pdf"
 MODEL_LIST="models/models_set_Female_Boost_Thinking_v2.json"
 
 CMD="python3 $SCRIPT_PATH \
@@ -217,9 +205,13 @@ CMD="python3 $SCRIPT_PATH \
 
 $CMD && echo "Plotting done" || echo "Plotting failed"
 
-# Fig. 7 - stanadtized benchmarks vs AIW (55 56 63 69 57 58 64 70)
+# Fig. 7 - standartized benchmarks MMLU vs AIW 
+# Including all prompt types and variations 1-4 to average across: 
+# AIW STANDARD   Var 1-4: 55 56 63 69 
+# AIW THINKING   Var 1-4: 57 58 64 70 
+# AIW RESTRICTED Var 1-4: 53 54 65 71
 # Colors can differ from the original plot
-OUTPUT_PATTERN="fig7_{}.pdf"
+OUTPUT_PATTERN="fig7_bench_vs_AIW_RESTRICTED_STANDARD_THINKING_{}.pdf"
 MODEL_LIST="models/models_plot_set_v1.json"
 
 CMD="python3 $SCRIPT_PATH \
