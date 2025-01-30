@@ -2085,5 +2085,1433 @@
         "prompt": "Alice has 1 sister and she also has 4 brothers. How many girls are there in total? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
         "right_answer": "2",
         "description": "AIW Variation 4, NonSet, Total Girls, THINKING V2, no output restriction, thinking carefully v2 - step by step"
+    },
+    {
+        "id": 347,
+        "prompt": "Alice has 3 male friends and she also has 6 female friends, who are all friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Alice friends"
+    },
+    {
+        "id": 348,
+        "prompt": "Alice has 2 female friends and she also has 4 male friends, who are all friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, Alice friends"
+    },
+    {
+        "id": 349,
+        "prompt": "Alice has 4 female friends and she also has 1 male friend, who are all friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW Variation 3, Alice friends, THINKING V2, no output restriction, thinking carefully v2 - step by step"
+    },
+    {
+        "id": 350,
+        "prompt": "Alice has 4 male friends and she also has 1 female friend, who are all friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW Variation 4, Alice friends, THINKING V2, no output restriction, thinking carefully v2 - step by step"
+    },
+    {
+        "id": 351,
+        "prompt": "Alice has 6 sisters and she also has 3 brothers. How many sisters does Alice's brother have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Control Alice ordering sisters"
+    },
+    {
+        "id": 352,
+        "prompt": "Alice has 1 sister and she also has 4 brothers. How many sisters does Alice's brother have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW Variation 4, Control Alice ordering sisters, THINKING V2, no output restriction, thinking carefully v2 - step by step"
+    },
+    {
+        "id": 353,
+        "prompt": "Alice has 4 brothers and she also has 2 sisters. How many sisters does Alice's brother have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, Control Alice ordering brothers"
+    },
+    {
+        "id": 354,
+        "prompt": "Alice has 1 brother and she also has 4 sisters. How many sisters does Alice's brother have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW Variation 3, Control Alice ordering brothers, no output restriction, thinking carefully v2 - step by step"
+    },
+    {
+        "id": 355,
+        "prompt": "Alice has 3 male friends and she also has 6 female friends, who are all friends with each other and have no other friends aside. How many female friends are there in total? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Control Alice female friends, NonSet"
+    },
+    {
+        "id": 356,
+        "prompt": "Alice has 2 female friends and she also has 4 male friends, who are all friends with each other and have no other friends aside. How many female friends are there in total? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, Control Alice female friends, NonSet"
+    },
+    {
+        "id": 357,
+        "prompt": "Alice has 4 female friends and she also has 1 male friend, who are all friends with each other and have no other friends aside. How many female friends are there in total? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW Variation 3, Control Alice female friends, NonSet, THINKING V2"
+    },
+    {
+        "id": 358,
+        "prompt": "Alice has 4 male friends and she also has 1 female friend, who are all friends with each other and have no other friends aside. How many female friends are there in total? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW Variation 4, Control Alice female friends, NonSet, THINKING V2"
+    },
+    {
+        "id": 359,
+        "prompt": "Alice has 3 male friends and she also has 6 female friends, who are all friends with each other and have no other friends aside. How many females are there in total? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Control Alice female friends, NonSet"
+    },
+    {
+        "id": 360,
+        "prompt": "Alice has 2 female friends and she also has 4 male friends, who are all friends with each other and have no other friends aside. How many females are there in total? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, Control Alice female friends, NonSet"
+    },
+    {
+        "id": 361,
+        "prompt": "Alice has 4 female friends and she also has 1 male friend, who are all friends with each other and have no other friends aside. How many females are there in total? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW Variation 3, Control Alice female friends, NonSet, THINKING V2"
+    },
+    {
+        "id": 362,
+        "prompt": "Alice has 4 male friends and she also has 1 female friend, who are all friends with each other and have no other friends aside. How many females are there in total? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW Variation 4, Control Alice female friends, NonSet, THINKING V2"
+    },
+    {
+        "id": 363,
+        "prompt": "Alice and 6 other females are friends and she also has 3 male friends, who are all friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Alice friends, InSet Control"
+    },
+    {
+        "id": 364,
+        "prompt": "Alice and 2 other females are friends and she also has 4 male friends, who are all friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, Alice friends, InSet Control"
+    },
+    {
+        "id": 365,
+        "prompt": "Alice and 4 other females are friends and she also has 1 male friend, who are all friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW Variation 3, THINKING V2, Alice friends, InSet Control"
+    },
+    {
+        "id": 366,
+        "prompt": "Alice and 1 other female are friends and she also has 4 male friends, who are all friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW Variation 4, THINKING V2, Alice friends, InSet Control"
+    },
+    {
+        "id": 367,
+        "prompt": "Alice and 6 other females are female friends and she also has 3 male friends, who are all friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Alice female friends, InSet Control"
+    },
+    {
+        "id": 368,
+        "prompt": "Alice and 2 other females are female friends and she also has 4 male friends, who are all friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, Alice female friends, InSet Control"
+    },
+    {
+        "id": 369,
+        "prompt": "Alice and 4 other females are female friends and she also has 1 male friend, who are all friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW Variation 3, THINKING V2, Alice female friends, InSet Control"
+    },
+    {
+        "id": 370,
+        "prompt": "Alice and 1 other female are female friends and she also has 4 male friends, who are all friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW Variation 4, THINKING V2, Alice female friends, InSet Control"
+    },
+    {
+        "id": 371,
+        "prompt": "Alice and 6 other females are female friends and she also has 3 male friends. They all are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Alice female friends, they all friends version, InSet Control"
+    },
+    {
+        "id": 372,
+        "prompt": "Alice and 2 other females are female friends and she also has 4 male friends. They all are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, Alice female friends, they all friends version, InSet Control"
+    },
+    {
+        "id": 373,
+        "prompt": "Alice and 4 other females are female friends and she also has 1 male friend. They all are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW Variation 3, THINKING V2, Alice female friends, they all friends version, InSet Control"
+    },
+    {
+        "id": 374,
+        "prompt": "Alice and 1 other female are female friends and she also has 4 male friends. They all are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW Variation 4, THINKING V2, Alice female friends, they all friends version, InSet Control"
+    },
+    {
+        "id": 375,
+        "prompt": "Alice and 6 other females are friends and she also has 3 male friends. They all are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Alice friends, they all friends version, InSet Control"
+    },
+    {
+        "id": 376,
+        "prompt": "Alice and 2 other females are friends and she also has 4 male friends. They all are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, Alice friends, they all friends version, InSet Control"
+    },
+    {
+        "id": 377,
+        "prompt": "Alice and 4 other females are friends and she also has 1 male friend. They all are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW Variation 3, THINKING V2, Alice friends, they all friends version, InSet Control"
+    },
+    {
+        "id": 378,
+        "prompt": "Alice and 1 other female are friends and she also has 4 male friends. They all are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW Variation 4, THINKING V2, Alice friends, they all friends version, InSet Control"
+    },
+    {
+        "id": 379,
+        "prompt": "Alice has 3 male friends and she also has 6 female friends. They all are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Alice friends, they all friends version"
+    },
+    {
+        "id": 380,
+        "prompt": "Alice has 2 female friends and she also has 4 male friends. They all are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, Alice friends, they all friends version"
+    },
+    {
+        "id": 381,
+        "prompt": "Alice has 4 female friends and she also has 1 male friend. They all are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW Variation 3, Alice friends, they all friends version, THINKING V2, no output restriction, thinking carefully v2 - step by step"
+    },
+    {
+        "id": 382,
+        "prompt": "Alice has 4 male friends and she also has 1 female friend. They all are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW Variation 4, Alice friends, they all friends version, THINKING V2, no output restriction, thinking carefully v2 - step by step"
+    },
+    {
+        "id": 383,
+        "prompt": "Alice has 3 male friends and she also has 6 female friends. They all are friends with each other and have no other friends aside. How many female friends are there in total? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Control Alice female friends, they all friends version, NonSet"
+    },
+    {
+        "id": 384,
+        "prompt": "Alice has 2 female friends and she also has 4 male friends. They all are friends with each other and have no other friends aside. How many female friends are there in total? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, Control Alice female friends, they all friends version, NonSet"
+    },
+    {
+        "id": 385,
+        "prompt": "Alice has 4 female friends and she also has 1 male friend. They all are friends with each other and have no other friends aside. How many female friends are there in total? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW Variation 3, Control Alice female friends, they all friends version, NonSet, THINKING V2"
+    },
+    {
+        "id": 386,
+        "prompt": "Alice has 4 male friends and she also has 1 female friend. They all are friends with each other and have no other friends aside. How many female friends are there in total? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW Variation 4, Control Alice female friends, they all friends version, NonSet, THINKING V2"
+    },
+    {
+        "id": 387,
+        "prompt": "Alice has 3 male friends and she also has 6 female friends. They all are friends with each other and have no other friends aside. How many females are there in total? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Control Alice total females, they all friends version, NonSet"
+    },
+    {
+        "id": 388,
+        "prompt": "Alice has 2 female friends and she also has 4 male friends. They all are friends with each other and have no other friends aside. How many females are there in total? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, Control Alice total females, they all friends version, NonSet"
+    },
+    {
+        "id": 389,
+        "prompt": "Alice has 4 female friends and she also has 1 male friend. They all are friends with each other and have no other friends aside. How many females are there in total? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW Variation 3, Control Alice total females, they all friends version, NonSet, THINKING V2"
+    },
+    {
+        "id": 390,
+        "prompt": "Alice has 4 male friends and she also has 1 female friend. They all are friends with each other and have no other friends aside. How many females are there in total? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW Variation 4, Control Alice total females, they all friends version, NonSet, THINKING V2"
+    },
+    {
+        "id": 391,
+        "prompt": "Alice is a scientist who has 6 scientist colleagues and she also has 3 software engineer colleagues. They all are working with each other and have no other colleagues aside. How many scientist colleagues does a software engineer have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Alice scientist and software engineers colleagues, they all colleagues version"
+    },
+    {
+        "id": 392,
+        "prompt": "Alice is a scientist who has 2 scientist colleagues and she also has 4 software engineer colleagues. They all are working with each other and have no other colleagues aside. How many scientist colleagues does a software engineer have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, Alice scientist and software engineers colleagues, they all colleagues version"
+    },
+    {
+        "id": 393,
+        "prompt": "Alice is a scientist who has 4 scientist colleagues and she also has 1 software engineer colleague. They all are working with each other and have no other colleagues aside. How many scientist colleagues does a software engineer have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW Variation 3, Alice scientist and software engineers colleagues, they all colleagues version, THINKING V2"
+    },
+    {
+        "id": 394,
+        "prompt": "Alice is a scientist who has 4 software engineer colleagues and she also has 1 scientist colleague. They all are working with each other and have no other colleagues aside. How many scientist colleagues does a software engineer have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW Variation 4, Alice scientist and software engineers colleagues, they all colleagues version, THINKING V2"
+    },
+    {
+        "id": 395,
+        "prompt": "Alice has 6 scientist colleagues. She is herself a scientist and she also has 3 non-scientist colleagues. They all are working with each other and have no other colleagues aside. How many scientist colleagues does a non-scientist have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Alice scientist and non-scientist colleagues, NonSet, they all colleagues version"
+    },
+    {
+        "id": 396,
+        "prompt": "Alice has 2 scientist colleagues. She is herself a scientist and she also has 4 non-scientist colleagues. They all are working with each other and have no other colleagues aside. How many scientist colleagues does a non-scientist have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, Alice scientist and non-scientist colleagues, NonSet, they all colleagues version"
+    },
+    {
+        "id": 397,
+        "prompt": "Alice has 4 scientist colleagues. She is herself a scientist and she also has 1 non-scientist colleague. They all are working with each other and have no other colleagues aside. How many scientist colleagues does a non-scientist have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW Variation 3, Alice scientist and non-scientist colleagues, NonSet, they all colleagues version, THINKING V2"
+    },
+    {
+        "id": 398,
+        "prompt": "Alice has 4 non-scientist colleagues. She is herself a scientist and she also has 1 scientist colleague. They all are working with each other and have no other colleagues aside. How many scientist colleagues does a non-scientist have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW Variation 4, Alice scientist and non-scientist colleagues, NonSet, they all colleagues version, THINKING V2"
+    },
+    {
+        "id": 399,
+        "prompt": "Alice is a scientist who has 6 scientist colleagues and she also has 3 non-scientist colleagues. They all are working with each other and have no other colleagues aside. How many scientist colleagues does a non-scientist have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Alice scientist and non-scientist colleagues, NonSet, Alice Scientist Boost, they all colleagues version"
+    },
+    {
+        "id": 400,
+        "prompt": "Alice is a scientist who has 2 scientist colleagues and she also has 4 non-scientist colleagues. They all are working with each other and have no other colleagues aside. How many scientist colleagues does a non-scientist have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, Alice scientist and non-scientist colleagues, NonSet, Alice Scientist Boost, they all colleagues version"
+    },
+    {
+        "id": 401,
+        "prompt": "Alice is a scientist who has 4 scientist colleagues and she also has 1 non-scientist colleague. They all are working with each other and have no other colleagues aside. How many scientist colleagues does a non-scientist have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW Variation 3, Alice scientist and non-scientist colleagues, NonSet, Alice Scientist Boost, they all colleagues version, THINKING V2"
+    },
+    {
+        "id": 402,
+        "prompt": "Alice is a scientist who has 4 non-scientist colleagues and she also has 1 scientist colleague. They all are working with each other and have no other colleagues aside. How many scientist colleagues does a non-scientist have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW Variation 4, Alice scientist and non-scientist colleagues, Alice Scientist Boost, NonSet, they all colleagues version, THINKING V2"
+    },
+    {
+        "id": 403,
+        "prompt": "Alice is female who has 3 male friends and she also has 6 female friends. They all are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Alice friends, Female Power Boost, they all friends version"
+    },
+    {
+        "id": 404,
+        "prompt": "Alice is female who has 2 female friends and she also has 4 male friends. They all are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, Alice friends, Female Power Boost, they all friends version"
+    },
+    {
+        "id": 405,
+        "prompt": "Alice is female who has 4 female friends and she also has 1 male friend. They all are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW Variation 3, Alice friends, Female Power Boost, they all friends version, THINKING V2, no output restriction, thinking carefully v2 - step by step"
+    },
+    {
+        "id": 406,
+        "prompt": "Alice is female who has 4 male friends and she also has 1 female friend. They all are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW Variation 4, Alice friends, Female Power Boost, they all friends version, THINKING V2, no output restriction, thinking carefully v2 - step by step"
+    },
+    {
+        "id": 407,
+        "prompt": "Alice and Bob are sister and brother. Alice is female and has 3 sisters. Bob is male and has 6 brothers. How many brothers does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW ext variation 1, Alice and Bob combi, Female Male Power Boost, Alice brothers question, THINKING v2, no output restriction"
+    },
+    {   
+        "id": 408,
+        "prompt": "Alice and Bob are sister and brother. Alice is female and has 2 sisters. Bob is male and has 2 brothers. How many brothers does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW ext variation 2, Alice and Bob combi, Female Male Power Boost, Alice brothers question, THINKING v2, no output restriction"
+    },
+    {   
+        "id": 409,
+        "prompt": "Alice and Bob are sister and brother. Alice is female and has 1 sister. Bob is male and has 4 brothers. How many brothers does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW ext variation 3, Alice and Bob combi,Female Male Power Boost, Alice brothers question, THINKING v2, no output restriction"
+    },
+    {   
+        "id": 410,
+        "prompt": "Alice and Bob are sister and brother. Alice is female and has 3 sisters. Bob is male and has 1 brother. How many brothers does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW ext variation 4, Alice and Bob combi, Female Male Power Boost, Alice brothers question, THINKING v2, no output restriction"
+    },
+    {
+        "id": 411,
+        "prompt": "Alice has 6 female colleagues and she also has 3 male colleagues. They all are working with each other and have no other colleagues aside. How many female colleagues does Alice's male colleague have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Alice male and female colleagues, NonSet, they all colleagues version"
+    },
+    {
+        "id": 412,
+        "prompt": "Alice has 2 female colleagues and she also has 4 male colleagues. They all are working with each other and have no other colleagues aside. How many female colleagues does Alice's male colleague have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, Alice male and female colleagues, NonSet, they all colleagues version"
+    },
+    {
+        "id": 413,
+        "prompt": "Alice has 4 female colleagues and she also has 1 male colleague. They all are working with each other and have no other colleagues aside. How many female colleagues does Alice's male colleague have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW Variation 3, Alice male and female colleagues, NonSet, they all colleagues version, THINKING V2"
+    },
+    {
+        "id": 414,
+        "prompt": "Alice has 4 male colleagues and she also has 1 female colleague. They all are working with each other and have no other colleagues aside. How many female colleagues does Alice's male colleague have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW Variation 4, Alice male and female colleagues, NonSet, they all colleagues version, THINKING V2"
+    },
+    {
+        "id": 415,
+        "prompt": "Alice and Bob are sister and brother. Alice has 3 brothers and Bob has 8 sisters. How many sisters does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW ext variation 1, Alice and Bob combi cross, Alice sisters question, THINKING v2, no output restriction"
+    },
+    {   
+        "id": 416,
+        "prompt": "Alice and Bob are sister and brother. Alice has 4 brothers and Bob has 4 sisters. How many sisters does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW ext variation 2, Alice and Bob combi cross, Alice sisters question, THINKING v2, no output restriction"
+    },
+    {   
+        "id": 417,
+        "prompt": "Alice and Bob are sister and brother. Alice has 2 brothers and Bob has 6 sisters. How many sisters does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW ext variation 3, Alice and Bob combi cross, Alice sisters question, THINKING v2, no output restriction"
+    },
+    {   
+        "id": 418,
+        "prompt": "Alice and Bob are sister and brother. Alice has 4 brothers and Bob has 3 sisters. How many sisters does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW ext variation 4, Alice and Bob combi cross, Alice sisters question, THINKING v2, no output restriction"
+    },
+    {
+        "id": 419,
+        "prompt": "Alice is a girl and has a brother, Bob. Bob has 8 sisters. How many sisters does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Alice's brother Bob, Alice's sisters"
+    },
+    {
+        "id": 420,
+        "prompt": "Alice is a girl and has a brother, Bob. Bob has 4 sisters. How many sisters does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, Alice's brother Bob, Alice's sisters"
+    },
+    {
+        "id": 421,
+        "prompt": "Alice is a girl and has a brother, Bob. Bob has 6 sisters. How many sisters does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW Variation 3, Alice's brother Bob, Alice's sisters, THINKING V2, no output restriction, thinking carefully v2 - step by step"
+    },
+    {
+        "id": 422,
+        "prompt": "Alice is a girl and has a brother, Bob. Bob has 3 sisters. How many sisters does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW Variation 4, Alice's brother Bob, Alice's sisters, THINKING V2, no output restriction, thinking carefully v2 - step by step"
+    },
+    {
+        "id": 423,
+        "prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags. <|eot_id|><|start_header_id|>user<|end_header_id|> Alice and Bob are sister and brother. Alice has 3 sisters and Bob has 6 brothers. How many brothers does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \". <|eot_id|><|start_header_id|>assistant<|end_header_id|>",
+        "right_answer": "7",
+        "description": "AIW ext variation 1, Alice and Bob combi, Alice brothers question, THINKING v2, no output restriction, Reflection Type"
+    },
+    {   
+        "id": 424,
+        "prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags. <|eot_id|><|start_header_id|>user<|end_header_id|> Alice and Bob are sister and brother. Alice has 2 sisters and Bob has 2 brothers. How many brothers does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \". <|eot_id|><|start_header_id|>assistant<|end_header_id|>",
+        "right_answer": "3",
+        "description": "AIW ext variation 2, Alice and Bob combi, Alice brothers question, THINKING v2, no output restriction, Reflection Type"
+    },
+    {   
+        "id": 425,
+        "prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags. <|eot_id|><|start_header_id|>user<|end_header_id|> Alice and Bob are sister and brother. Alice has 1 sister and Bob has 4 brothers. How many brothers does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".  <|eot_id|><|start_header_id|>assistant<|end_header_id|>",
+        "right_answer": "5",
+        "description": "AIW ext variation 3, Alice and Bob combi, Alice brothers question, THINKING v2, no output restriction, Reflection Type"
+    },
+    {   
+        "id": 426,
+        "prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags. <|eot_id|><|start_header_id|>user<|end_header_id|> Alice and Bob are sister and brother. Alice has 3 sisters and Bob has 1 brother. How many brothers does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \". <|eot_id|><|start_header_id|>assistant<|end_header_id|>",
+        "right_answer": "2",
+        "description": "AIW ext variation 4, Alice and Bob combi, Alice brothers question, THINKING v2, no output restriction, Reflection Type"
+    },
+    {
+        "id": 427,
+        "prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags. <|eot_id|><|start_header_id|>user<|end_header_id|> Alice has 3 male friends and she also has 6 female friends. They all are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \". <|eot_id|><|start_header_id|>assistant<|end_header_id|>",
+        "right_answer": "7",
+        "description": "AIW variation 1, Alice friends, they all friends version, THINKING V2, Reflection Type"
+    },
+    {   
+        "id": 428,
+        "prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags. <|eot_id|><|start_header_id|>user<|end_header_id|> Alice has 2 female friends and she also has 4 male friends. They all are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \". <|eot_id|><|start_header_id|>assistant<|end_header_id|>",
+        "right_answer": "3",
+        "description": "AIW variation 2, Alice friends, they all friends version, THINKING V2, Reflection Type"
+    },
+    {   
+        "id": 429,
+        "prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags. <|eot_id|><|start_header_id|>user<|end_header_id|> Alice has 4 female friends and she also has 1 male friend. They all are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".  <|eot_id|><|start_header_id|>assistant<|end_header_id|>",
+        "right_answer": "5",
+        "description": "AIW variation 3, Alice friends, they all friends version, THINKING V2, Reflection Type"
+    },
+    {   
+        "id": 430,
+        "prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags. <|eot_id|><|start_header_id|>user<|end_header_id|> Alice has 4 male friends and she also has 1 female friend. They all are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \". <|eot_id|><|start_header_id|>assistant<|end_header_id|>",
+        "right_answer": "2",
+        "description": "AIW variation 4, Alice friends, they all friends version, THINKING V2, Reflection Type"
+    },
+    {
+        "id": 431,
+        "prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags. <|eot_id|><|start_header_id|>user<|end_header_id|> Alice has 3 brothers and she also has 6 sisters. How many sisters does Alice's brother have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \". <|eot_id|><|start_header_id|>assistant<|end_header_id|>",
+        "right_answer": "7",
+        "description": "AIW Variation 1, THINKING v2, Reflection Type"
+    },
+    {   
+        "id": 432,
+        "prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags. <|eot_id|><|start_header_id|>user<|end_header_id|> Alice has 2 sisters and she also has 4 brothers. How many sisters does Alice's brother have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \". <|eot_id|><|start_header_id|>assistant<|end_header_id|>",
+        "right_answer": "3",
+        "description": "AIW Variation 2, THINKING v2, Reflection Type"
+    },
+    {   
+        "id": 433,
+        "prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags. <|eot_id|><|start_header_id|>user<|end_header_id|> Alice has 4 sisters and she also has 1 brother. How many sisters does Alice's brother have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".  <|eot_id|><|start_header_id|>assistant<|end_header_id|>",
+        "right_answer": "5",
+        "description": "AIW Variation 3, THINKING v2, Reflection Type"
+    },
+    {   
+        "id": 434,
+        "prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags. <|eot_id|><|start_header_id|>user<|end_header_id|> Alice has 4 brothers and she also has 1 sister. How many sisters does Alice's brother have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \". <|eot_id|><|start_header_id|>assistant<|end_header_id|>",
+        "right_answer": "2",
+        "description": "AIW Variation 4, THINKING v2, Reflection Type"
+    },
+    {
+        "id": 435,
+        "prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags. <|eot_id|><|start_header_id|>user<|end_header_id|> Alice has 7 brothers and she also has 3 sisters. How many brothers does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \". <|eot_id|><|start_header_id|>assistant<|end_header_id|>",
+        "right_answer": "7",
+        "description": "AIW Variation 1, THINKING v2, AIW Light Control Family Alice's Sister's Brothers, Reflection Type"
+    },
+    {   
+        "id": 436,
+        "prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags. <|eot_id|><|start_header_id|>user<|end_header_id|> Alice has 4 sisters and she also has 3 brothers. How many brothers does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \". <|eot_id|><|start_header_id|>assistant<|end_header_id|>",
+        "right_answer": "3",
+        "description": "AIW Variation 2, THINKING v2, AIW Light Control Family Alice's Sister's Brothers, Reflection Type"
+    },
+    {   
+        "id": 437,
+        "prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags. <|eot_id|><|start_header_id|>user<|end_header_id|> Alice has 2 sisters and she also has 5 brothers. How many brothers does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".  <|eot_id|><|start_header_id|>assistant<|end_header_id|>",
+        "right_answer": "5",
+        "description": "AIW Variation 3, THINKING v2, AIW Light Control Family Alice's Sister's Brothers, Reflection Type"
+    },
+    {   
+        "id": 438,
+        "prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags. <|eot_id|><|start_header_id|>user<|end_header_id|> Alice has 2 brothers and she also has 3 sisters. How many brothers does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \". <|eot_id|><|start_header_id|>assistant<|end_header_id|>",
+        "right_answer": "2",
+        "description": "AIW Variation 4, THINKING v2, AIW Light Control Family Alice's Sister's Brothers, Reflection Type"
+    },
+    {
+        "id": 439,
+        "prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags. <|eot_id|><|start_header_id|>user<|end_header_id|> Alice has 3 brothers and she also has 4 sisters. How many siblings does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \". <|eot_id|><|start_header_id|>assistant<|end_header_id|>",
+        "right_answer": "7",
+        "description": "AIW Variation 1, THINKING v2, AIW Light Control Arithmetic Alice's Siblings, Reflection Type"
+    },
+    {   
+        "id": 440,
+        "prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags. <|eot_id|><|start_header_id|>user<|end_header_id|> Alice has 2 sisters and she also has 1 brother. How many siblings does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \". <|eot_id|><|start_header_id|>assistant<|end_header_id|>",
+        "right_answer": "3",
+        "description": "AIW Variation 2, THINKING v2, AIW Light Control Arithmetic Alice's Siblings, Reflection Type"
+    },
+    {   
+        "id": 441,
+        "prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags. <|eot_id|><|start_header_id|>user<|end_header_id|> Alice has 4 sisters and she also has 1 brother. How many siblings does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".  <|eot_id|><|start_header_id|>assistant<|end_header_id|>",
+        "right_answer": "5",
+        "description": "AIW Variation 3, THINKING v2, AIW Light Control Arithmetic Alice's Siblings, Reflection Type"
+    },
+    {   
+        "id": 442,
+        "prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags. <|eot_id|><|start_header_id|>user<|end_header_id|> Alice has 1 brother and she also has 1 sister. How many siblings does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \". <|eot_id|><|start_header_id|>assistant<|end_header_id|>",
+        "right_answer": "2",
+        "description": "AIW Variation 4, THINKING v2, AIW Light Control Arithmetic Alice's Siblings, Reflection Type"
+    },
+    {
+        "id": 443,
+        "prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags. <|eot_id|><|start_header_id|>user<|end_header_id|> Alice has 6 sisters and she also has 3 brothers. How many girls are there in total? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \". <|eot_id|><|start_header_id|>assistant<|end_header_id|>",
+        "right_answer": "7",
+        "description": "AIW Variation 1, THINKING v2, AIW Light Control Arithmetic Total Girls, Reflection Type"
+    },
+    {   
+        "id": 444,
+        "prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags. <|eot_id|><|start_header_id|>user<|end_header_id|> Alice has 2 sisters and she also has 4 brothers. How many girls are there in total? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \". <|eot_id|><|start_header_id|>assistant<|end_header_id|>",
+        "right_answer": "3",
+        "description": "AIW Variation 2, THINKING v2, AIW Light Control Arithmetic Total Girls, Reflection Type"
+    },
+    {   
+        "id": 445,
+        "prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags. <|eot_id|><|start_header_id|>user<|end_header_id|> Alice has 4 sisters and she also has 1 brother. How many girls are there in total? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".  <|eot_id|><|start_header_id|>assistant<|end_header_id|>",
+        "right_answer": "5",
+        "description": "AIW Variation 3, THINKING v2, AIW Light Control Arithmetic Total Girls, Reflection Type"
+    },
+    {   
+        "id": 446,
+        "prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|> You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags. <|eot_id|><|start_header_id|>user<|end_header_id|> Alice has 1 sister and she also has 4 brothers. How many girls are there in total? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \". <|eot_id|><|start_header_id|>assistant<|end_header_id|>",
+        "right_answer": "2",
+        "description": "AIW Variation 4, THINKING v2, AIW Light Control Arithmetic Total Girls, Reflection Type"
+    },
+    {
+        "id": 447,
+        "prompt": "Alice has 2 sisters. Her mother has 1 sister who does not have children and who has 6 nephews and nieces and also 2 brothers. Alice's father has a brother who has 5 nephews and nieces in total, and who also has 2 daughters. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW+ VARIATION 1, EXPERIMENTAL, THINKING v2"
+    },
+    {
+        "id": 448,
+        "prompt": "Alice has 3 sisters. Her mother has 1 sister who does not have children and who has 6 nephews and nieces and also 2 brothers. Alice's father has a brother who has 4 nephews and nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW+ VARIATION 2, EXPERIMENTAL, THINKING v2"
+    },
+    {
+        "id": 449,
+        "prompt": "Alice has 3 sisters. Her mother has 1 sister who does not have children and who has 7 nephews and nieces and also 2 brothers. Alice's father has a brother who has 5 nephews and nieces in total, and who has also 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW+ Variation 3, EXPERIMENTAL, THINKING v2"
+    },
+    {
+        "id": 450,
+        "prompt": "Alice has 4 sisters. Her mother has 1 sister who does not have children and who has 6 nephews and nieces and also 2 brothers. Alice's father has a brother who has 5 nephews and nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW+ VARIATION 4, EXPERIMENTAL, THINKING V2"
+    },
+    {
+        "id": 451,
+        "prompt": "Alice has 3 sisters. Her mother has 1 sister who does not have children and who has 6 nephews and nieces and also 2 brothers. Alice's father has a brother who has 5 nephews and nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW+ VARIATION 5, EXPERIMENTAL, THINKING V2"
+    },
+    {
+        "id": 452,
+        "prompt": "Alice has 2 sisters. Her mother has 1 sister who does not have children and who has 6 nephews and nieces and also 2 brothers. Alice's father has a brother who has 4 nephews and nieces in total, and who also has 2 daughters. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW+ VARIATION 6, EXPERIMENTAL, THINKING V2"
+    },
+    {
+        "id": 453,
+        "prompt": "Alice has 2 male friends and she also has 3 female friends. They all are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW VARIATION 5, THINKING V2, Alice friends, they all friends version"
+    },
+    {
+        "id": 454,
+        "prompt": "Alice has 5 female friends and she also has 3 male friends. They all are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW VARIATION 6, THINKING V2, Alice friends, they all friends version"
+    },
+    {
+        "id": 455,
+        "prompt": "Alice and Bob are sister and brother. Alice has 2 sisters and Bob has 3 brothers. How many brothers does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW ext variation 5, Alice and Bob combi, Alice brothers question, THINKING v2, no output restriction"
+    },
+    {   
+        "id": 456,
+        "prompt": "Alice and Bob are sister and brother. Alice has 3 sisters and Bob has 5 brothers. How many brothers does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW ext variation 6, Alice and Bob combi, Alice brothers question, THINKING v2, no output restriction"
+    },
+    {
+        "id": 457,
+        "prompt": "Alice has 2 brothers and she also has 3 sisters. How many sisters does Alice's brother have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW VARIATION 5, THINKING V2, Original, NO BOOST"
+    },
+    {
+        "id": 458,
+        "prompt": "Alice has 5 sisters and she also has 3 brothers. How many sisters does Alice's brother have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW VARIATION 6, THINKING V2, Original, NO BOOST"
+    },
+    {
+        "id": 459,
+        "prompt": "Alice has 2 brothers and she also has 3 sisters. Bob is a brother of Alice. How many sisters does Bob have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW VARIATION 5, THINKING V2, Explicit Bob question version, NO BOOST"
+    },
+    {
+        "id": 460,
+        "prompt": "Alice has 5 sisters and she also has 3 brothers. Bob is a brother of Alice. How many sisters does Bob have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW VARIATION 6, THINKING V2, Explicit Bob question version, NO BOOST"
+    },
+    {
+        "id": 461,
+        "prompt": "Alice and Bob are female and male friends. Alice has 5 male friends. Bob has 8 female friends. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 462,
+        "prompt": "Alice and Bob are female and male friends. Alice has 6 male friends. Bob has 4 female friends. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 463,
+        "prompt": "Alice and Bob are female and male friends. Alice has 3 male friends. Bob has 6 female friends. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW VARIATION 3, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 464,
+        "prompt": "Alice and Bob are female and male friends. Alice has 4 male friends. Bob has 3 female friends. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW VARIATION 4, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 465,
+        "prompt": "Alice and Bob are female and male friends. Alice has 2 male friends. Bob has 5 female friends. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW VARIATION 5, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 466,
+        "prompt": "Alice and Bob are female and male friends. Alice has 8 male friends. Bob has 7 female friends. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW VARIATION 6, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 467,
+        "prompt": "Alice and Bob are female and male friends. Alice has 5 female friends. Bob has 6 male friends. All mentioned persons are friends with each other and have no other friends aside. How many male friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 468,
+        "prompt": "Alice and Bob are female and male friends. Alice has 6 female friends. Bob has 2 male friends. All mentioned persons are friends with each other and have no other friends aside. How many male friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 469,
+        "prompt": "Alice and Bob are female and male friends. Alice has 3 female friends. Bob has 4 male friends. All mentioned persons are friends with each other and have no other friends aside. How many male friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW VARIATION 3, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 470,
+        "prompt": "Alice and Bob are female and male friends. Alice has 4 female friends. Bob has 1 male friend. All mentioned persons are friends with each other and have no other friends aside. How many male friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW VARIATION 4, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 471,
+        "prompt": "Alice and Bob are female and male friends. Alice has 5 female friends. Bob has 3 male friends. All mentioned persons are friends with each other and have no other friends aside. How many male friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW VARIATION 5, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 472,
+        "prompt": "Alice and Bob are female and male friends. Alice has 8 female friends. Bob has 5 male friends. All mentioned persons are friends with each other and have no other friends aside. How many male friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW VARIATION 6, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 473,
+        "prompt": "Alice and Bob are female and male friends. In total, including each other, Alice has 5 male friends and Bob has 8 female friends. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 474,
+        "prompt": "Alice and Bob are female and male friends. In total, including each other, Alice has 6 male friends and Bob has 4 female friends. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 475,
+        "prompt": "Alice and Bob are female and male friends. In total, including each other, Alice has 3 male friends and Bob has 6 female friends. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW VARIATION 3, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 476,
+        "prompt": "Alice and Bob are female and male friends. In total, including each other, Alice has 4 male friends and Bob has 3 female friends. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW VARIATION 4, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 477,
+        "prompt": "Alice and Bob are female and male friends. In total, including each other, Alice has 2 male friends and Bob has 5 female friends. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW VARIATION 5, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 478,
+        "prompt": "Alice and Bob are female and male friends. In total, including each other, Alice has 8 male friends and Bob has 7 female friends. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW VARIATION 6, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 479,
+        "prompt": "Alice and Bob are female and male friends. Besides each other, Alice has 5 other male friends and Bob has 6 other female friends. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Bob have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 480,
+        "prompt": "Alice and Bob are female and male friends. Besides each other, Alice has 6 other male friends and Bob has 2 other female friends. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Bob have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 481,
+        "prompt": "Alice and Bob are female and male friends. Besides each other, Alice has 3 other male friends and Bob has 4 other female friends. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Bob have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW VARIATION 3, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 482,
+        "prompt": "Alice and Bob are female and male friends. Besides each other, Alice has 4 other male friends and Bob has 1 other female friend. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Bob have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW VARIATION 4, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 483,
+        "prompt": "Alice and Bob are female and male friends. Besides each other, Alice has 2 other male friends and Bob has 3 other female friends. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Bob have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW VARIATION 5, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 484,
+        "prompt": "Alice and Bob are female and male friends. Besides each other, Alice has 8 other male friends and Bob has 5 other female friends. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Bob have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW VARIATION 6, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 485,
+        "prompt": "Alice has 2 sisters. Her mother has 1 sister who does not have children - she has 6 nephews and nieces and also 2 brothers. Alice's father has a brother who has 5 nephews and nieces in total, and who also has 2 daughters. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW+ VARIATION 1, EXPERIMENTAL, mod 2, minor mod she has, THINKING v2"
+    },
+    {
+        "id": 486,
+        "prompt": "Alice has 3 sisters. Her mother has 1 sister who does not have children - she has 6 nephews and nieces and also 2 brothers. Alice's father has a brother who has 4 nephews and nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW+ VARIATION 2, EXPERIMENTAL, mod 2, minor mod she has, THINKING v2"
+    },
+    {
+        "id": 487,
+        "prompt": "Alice has 3 sisters. Her mother has 1 sister who does not have children - she has 7 nephews and nieces and also 2 brothers. Alice's father has a brother who has 5 nephews and nieces in total, and who has also 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW+ Variation 3, EXPERIMENTAL, mod 2, minor mod she has, THINKING v2"
+    },
+    {
+        "id": 488,
+        "prompt": "Alice has 4 sisters. Her mother has 1 sister who does not have children - she has 6 nephews and nieces and also 2 brothers. Alice's father has a brother who has 5 nephews and nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW+ VARIATION 4, EXPERIMENTAL, mod 2, minor mod she has, THINKING V2"
+    },
+    {
+        "id": 489,
+        "prompt": "Alice has 3 sisters. Her mother has 1 sister who does not have children - she has 6 nephews and nieces and also 2 brothers. Alice's father has a brother who has 5 nephews and nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW+ VARIATION 5, EXPERIMENTAL, mod 2, minor mod she has, THINKING V2"
+    },
+    {
+        "id": 490,
+        "prompt": "Alice has 2 sisters. Her mother has 1 sister who does not have children - she has 6 nephews and nieces and also 2 brothers. Alice's father has a brother who has 4 nephews and nieces in total, and who also has 2 daughters. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW+ VARIATION 6, EXPERIMENTAL, mod 2, minor mod she has, THINKING V2"
+    },
+    {
+        "id": 491,
+        "prompt": "Alice has 2 sisters and no other siblings. Her mother has 1 sister who does not have children and who has 6 nephews and nieces and also 2 brothers. Alice's father has a brother who has 5 nephews and nieces in total, and who also has 2 daughters. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW+ VARIATION 1, MOD 3, no other siblings, THINKING v2"
+    },
+    {
+        "id": 492,
+        "prompt": "Alice has 3 sisters and no other siblings. Her mother has 1 sister who does not have children and who has 6 nephews and nieces and also 2 brothers. Alice's father has a brother who has 4 nephews and nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW+ VARIATION 2, MOD 3, no other siblings, THINKING v2"
+    },
+    {
+        "id": 493,
+        "prompt": "Alice has 3 sisters and no other siblings. Her mother has 1 sister who does not have children and who has 7 nephews and nieces and also 2 brothers. Alice's father has a brother who has 5 nephews and nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW+ Variation 3, MOD 3, no other siblings, THINKING v2"
+    },
+    {
+        "id": 494,
+        "prompt": "Alice has 4 sisters and no other siblings. Her mother has 1 sister who does not have children and who has 6 nephews and nieces and also 2 brothers. Alice's father has a brother who has 5 nephews and nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW+ VARIATION 4, MOD 3, no other siblings, THINKING V2"
+    },
+    {
+        "id": 495,
+        "prompt": "Alice has 3 sisters and no other siblings. Her mother has 1 sister who does not have children and who has 6 nephews and nieces and also 2 brothers. Alice's father has a brother who has 5 nephews and nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW+ VARIATION 5, MOD 3, no other siblings, THINKING V2"
+    },
+    {
+        "id": 496,
+        "prompt": "Alice has 2 sisters and no other siblings. Her mother has 1 sister who does not have children and who has 6 nephews and nieces and also 2 brothers. Alice's father has a brother who has 4 nephews and nieces in total, and who also has 2 daughters. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW+ VARIATION 6, MOD 3, no other siblings, THINKING V2"
+    },
+    {
+        "id": 497,
+        "prompt": "Alice has 2 sisters and no other siblings. Her mother has 1 sister who does not have children and who has 6 nephews and nieces and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 5 nephews and nieces in total, and who also has 2 daughters. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW+ VARIATION 1, MOD 4, no other siblings, Father more detail, THINKING v2"
+    },
+    {
+        "id": 498,
+        "prompt": "Alice has 3 sisters and no other siblings. Her mother has 1 sister who does not have children and who has 6 nephews and nieces and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 4 nephews and nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW+ VARIATION 2, MOD 4, no other siblings, Father more detail, THINKING v2"
+    },
+    {
+        "id": 499,
+        "prompt": "Alice has 3 sisters and no other siblings. Her mother has 1 sister who does not have children and who has 7 nephews and nieces and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 5 nephews and nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW+ Variation 3, MOD 4, no other siblings, Father more detail, THINKING v2"
+    },
+    {
+        "id": 500,
+        "prompt": "Alice has 4 sisters and no other siblings. Her mother has 1 sister who does not have children and who has 6 nephews and nieces and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 5 nephews and nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW+ VARIATION 4, MOD 4, no other siblings, Father more detail, THINKING V2"
+    },
+    {
+        "id": 501,
+        "prompt": "Alice has 3 sisters and no other siblings. Her mother has 1 sister who does not have children and who has 6 nephews and nieces and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 5 nephews and nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW+ VARIATION 5,  MOD 4, no other siblings, Father more detail, THINKING V2"
+    },
+    {
+        "id": 502,
+        "prompt": "Alice has 2 sisters and no other siblings. Her mother has 1 sister who does not have children and who has 6 nephews and nieces and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 4 nephews and nieces in total, and who also has 2 daughters. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW+ VARIATION 6,  MOD 4, no other siblings, Father more detail, THINKING V2"
+    },
+    {
+        "id": 503,
+        "prompt": "Alice has 2 sisters and no other siblings. Her mother has 1 sister who does not have children - she has 6 nephews and nieces and also 2 brothers. Alice's father has a brother who has 5 nephews and nieces in total, and who also has 2 daughters. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW+ VARIATION 1, MOD 5, no other siblings, she has mod, THINKING v2"
+    },
+    {
+        "id": 504,
+        "prompt": "Alice has 3 sisters and no other siblings. Her mother has 1 sister who does not have children - she has 6 nephews and nieces and also 2 brothers. Alice's father has a brother who has 4 nephews and nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW+ VARIATION 2, MOD 5, no other siblings, she has mod, THINKING v2"
+    },
+    {
+        "id": 505,
+        "prompt": "Alice has 3 sisters and no other siblings. Her mother has 1 sister who does not have children - she has 7 nephews and nieces and also 2 brothers. Alice's father has a brother who has 5 nephews and nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW+ Variation 3, MOD 5, no other siblings, she has mod, THINKING v2"
+    },
+    {
+        "id": 506,
+        "prompt": "Alice has 4 sisters and no other siblings. Her mother has 1 sister who does not have children - she has 6 nephews and nieces and also 2 brothers. Alice's father has a brother who has 5 nephews and nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW+ VARIATION 4, MOD 5, no other siblings, she has mod, THINKING V2"
+    },
+    {
+        "id": 507,
+        "prompt": "Alice has 3 sisters and no other siblings. Her mother has 1 sister who does not have children - she has 6 nephews and nieces and also 2 brothers. Alice's father has a brother who has 5 nephews and nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW+ VARIATION 5, MOD 5, no other siblings, she has mod, THINKING V2"
+    },
+    {
+        "id": 508,
+        "prompt": "Alice has 2 sisters and no other siblings. Her mother has 1 sister who does not have children - she has 6 nephews and nieces and also 2 brothers. Alice's father has a brother who has 4 nephews and nieces in total, and who also has 2 daughters. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW+ VARIATION 6, MOD 5, no other siblings, she has mod, THINKING V2"
+    },
+    {
+        "id": 509,
+        "prompt": "Alice has 2 sisters and 1 brother in total. Her mother has 1 sister who does not have children - she has 3 nephews and 4 nieces in total and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 6 nephews and 3 nieces in total, and who also has 2 daughters. How many male cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW++ VARIATION 1, MOD 1, she has mod, male cousins, THINKING V2"
+    },
+    {
+        "id": 510,
+        "prompt": "Alice has 1 sister and 1 brother in total. Her mother has 1 sister who does not have children - she has 2 nephews and 4 nieces in total and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 1 nephew and 4 nieces in total, and who also has 2 sons. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW++ VARIATION 1, MOD 2, she has mod, total cousins, THINKING V2"
+    },
+    {
+        "id": 511,
+        "prompt": "Alice has 2 sisters and 1 brother in total. Her mother has 1 sister who does not have children - she has 4 nephews and 3 nieces in total and also 2 brothers. Alice's father has a brother who has 1 nephew and 4 nieces in total, and who also has 1 son. How many male cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW++ VARIATION 5, MOD 1, she has mod, male cousins, THINKING V2"
+    },
+    {
+        "id": 512,
+        "prompt": "Alice has 2 sisters and 1 brother in total. Her mother has 1 sister who does not have children - she has 2 nephews and 4 nieces in total and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 1 nephew and 4 nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW++ VARIATION 5, MOD 2, she has mod, total cousins, THINKING V2"
+    },
+    {
+        "id": 513,
+        "prompt": "Alice has 1 sister and 1 brother in total. Her mother has 1 sister who does not have children - she has 2 nephews and 4 nieces in total and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 1 nephew and 4 nieces in total, and who also has 2 sons. How many male cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW++ VARIATION 2, MOD 1, she has mod, male cousins, THINKING V2"
+    },
+    {
+        "id": 514,
+        "prompt": "Alice has 1 sister and 1 brother in total. Her mother has 1 sister who does not have children - she has 3 nephews and 2 nieces in total and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 4 nephews and 3 nieces in total, and who also has 1 daughter. How many male cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW++ VARIATION 3, MOD 1, she has mod, male cousins, THINKING V2"
+    },
+    {
+        "id": 515,
+        "prompt": "Alice has 2 sisters and 1 brother in total. Her mother has 1 sister who does not have children - she has 2 nephews and 4 nieces in total and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 1 nephew and 4 nieces in total, and who also has 1 son. How many male cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW++ VARIATION 4, MOD 1, she has mod, male cousins, THINKING V2"
+    },
+    {
+        "id": 516,
+        "prompt": "Alice has 1 sister and 1 brother in total. Her mother has 1 sister who does not have children - she has 3 nephews and 4 nieces in total and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 4 nephews and 3 nieces in total, and who also has 1 son. How many male cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW++ VARIATION 6, MOD 1, she has mod, male cousins, THINKING V2"
+    },
+    {
+        "id": 517,
+        "prompt": "Alice has 2 sisters and 1 brother in total. Her mother has 1 sister who does not have children - she has 2 nephews and 4 nieces in total and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 1 nephew and 3 nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW++ VARIATION 2, MOD 2, she has mod, total cousins, THINKING V2"
+    },
+    {
+        "id": 518,
+        "prompt": "Alice has 2 sisters and 1 brother in total. Her mother has 1 sister who does not have children - she has 3 nephews and 4 nieces in total and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 1 nephew and 4 nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW++ VARIATION 3, MOD 2, she has mod, total cousins, THINKING V2"
+    },
+    {
+        "id": 519,
+        "prompt": "Alice has 1 sister and 3 brothers in total. Her mother has 1 sister who does not have children - she has 4 nephews and 2 nieces in total and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 3 nephews and 2 nieces in total, and who also has 1 daughter. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW++ VARIATION 4, MOD 2, she has mod, total cousins, THINKING V2"
+    },
+    {
+        "id": 520,
+        "prompt": "Alice has 1 sister and 1 brother in total. Her mother has 1 sister who does not have children - she has 2 nephews and 4 nieces in total and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 3 nephews and 2 nieces in total, and who also has 1 daughter. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW++ VARIATION 6, MOD 2, she has mod, total cousins, THINKING V2"
+    },
+    {
+        "id": 521,
+        "prompt": "Alice has 1 sister and 3 brothers in total. Her mother has 1 sister who does not have children - she has 4 nephews and 2 nieces in total and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 3 nephews and 2 nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW++ VARIATION 4a, MOD 2, she has mod, total cousins, only male cousins, THINKING V2"
+    },
+    {
+        "id": 522,
+        "prompt": "Alice has 1 sister and 3 brothers in total. Her mother has 1 sister who does not have children - she has 3 nephews and 3 nieces in total and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 3 nephews and 2 nieces in total, and who also has 1 daughter. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW++ VARIATION 4b, MOD 2, she has mod, total cousins, only female cousins, THINKING V2"
+    },
+    {
+        "id": 523,
+        "prompt": "Alice has 2 sisters and 1 brother in total. Her mother has 1 sister who does not have children and who has 3 nephews and 4 nieces in total and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 6 nephews and 3 nieces in total, and who also has 2 daughters. How many male cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW++ VARIATION 1, MOD 3, who has mod, male cousins, THINKING V2"
+    },
+    {
+        "id": 524,
+        "prompt": "Alice has 1 sister and 1 brother in total. Her mother has 1 sister who does not have children and who has 2 nephews and 4 nieces in total and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 1 nephew and 4 nieces in total, and who also has 2 sons. How many male cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW++ VARIATION 2, MOD 3, who has mod, male cousins, THINKING V2"
+    },
+    {
+        "id": 525,
+        "prompt": "Alice has 1 sister and 1 brother in total. Her mother has 1 sister who does not have children and who has 3 nephews and 2 nieces in total and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 4 nephews and 3 nieces in total, and who also has 1 daughter. How many male cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW++ VARIATION 3, MOD 3, who has mod, male cousins, THINKING V2"
+    },
+    {
+        "id": 526,
+        "prompt": "Alice has 2 sisters and 1 brother in total. Her mother has 1 sister who does not have children and who has 2 nephews and 4 nieces in total and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 1 nephew and 4 nieces in total, and who also has 1 son. How many male cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW++ VARIATION 4, MOD 3, who has mod, male cousins, THINKING V2"
+    },
+    {
+        "id": 527,
+        "prompt": "Alice has 2 sisters and 1 brother in total. Her mother has 1 sister who does not have children and who has 4 nephews and 3 nieces in total and also 2 brothers. Alice's father has a brother who has 1 nephew and 4 nieces in total, and who also has 1 son. How many male cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW++ VARIATION 5, MOD 3, who has mod, male cousins, THINKING V2"
+    },
+    {
+        "id": 528,
+        "prompt": "Alice has 1 sister and 1 brother in total. Her mother has 1 sister who does not have children and who has 3 nephews and 4 nieces in total and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 4 nephews and 3 nieces in total, and who also has 1 son. How many male cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW++ VARIATION 6, MOD 3, who has mod, male cousins, THINKING V2"
+    },
+    {
+        "id": 529,
+        "prompt": "Alice has 1 sister and 1 brother in total. Her mother has 1 sister who does not have children and who has 2 nephews and 4 nieces in total and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 1 nephew and 4 nieces in total, and who also has 2 sons. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW++ VARIATION 1, MOD 4, who has mod, total cousins, THINKING V2"
+    },
+    {
+        "id": 530,
+        "prompt": "Alice has 2 sisters and 1 brother in total. Her mother has 1 sister who does not have children and who has 2 nephews and 4 nieces in total and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 1 nephew and 3 nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW++ VARIATION 2, MOD 4, who has mod, total cousins, THINKING V2"
+    },
+    {
+        "id": 531,
+        "prompt": "Alice has 2 sisters and 1 brother in total. Her mother has 1 sister who does not have children and who has 3 nephews and 4 nieces in total and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 1 nephew and 4 nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW++ VARIATION 3, MOD 4, who has mod, total cousins, THINKING V2"
+    },
+    {
+        "id": 532,
+        "prompt": "Alice has 1 sister and 3 brothers in total. Her mother has 1 sister who does not have children and who has 4 nephews and 2 nieces in total and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 3 nephews and 2 nieces in total, and who also has 1 daughter. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW++ VARIATION 4, MOD 4, who has mod, total cousins, THINKING V2"
+    },
+    {
+        "id": 533,
+        "prompt": "Alice has 2 sisters and 1 brother in total. Her mother has 1 sister who does not have children and who has 2 nephews and 4 nieces in total and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 1 nephew and 4 nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW++ VARIATION 5, MOD 4, who has mod, total cousins, THINKING V2"
+    },
+    {
+        "id": 534,
+        "prompt": "Alice has 1 sister and 1 brother in total. Her mother has 1 sister who does not have children and who has 2 nephews and 4 nieces in total and also 2 brothers. Alice's father has 2 sisters. He also has a brother who has 3 nephews and 2 nieces in total, and who also has 1 daughter. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW++ VARIATION 6, MOD 4, who has mod, total cousins, THINKING V2"
+    },
+    {
+        "id": 535,
+        "prompt": "Alice has 2 sisters and 1 brother in total. Her mother has 2 brothers. She also has 1 sister who does not have children and who has 3 nephews and 4 nieces in total. Alice's father has 2 sisters. He also has a brother who has 6 nephews and 3 nieces in total, and who also has 2 daughters. How many male cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW++ VARIATION 1, MOD 5, her mother she has mod, male cousins, THINKING V2"
+    },
+    {
+        "id": 536,
+        "prompt": "Alice has 1 sister and 1 brother in total. Her mother has 2 brothers. She also has 1 sister who does not have children and who has 2 nephews and 4 nieces in total. Alice's father has 2 sisters. He also has a brother who has 1 nephew and 4 nieces in total, and who also has 2 sons. How many male cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW++ VARIATION 2, MOD 5, her mother she has mod, male cousins, THINKING V2"
+    },
+    {
+        "id": 537,
+        "prompt": "Alice has 1 sister and 1 brother in total. Her mother has 2 brothers. She also has 1 sister who does not have children and who has 3 nephews and 2 nieces in total. Alice's father has 2 sisters. He also has a brother who has 4 nephews and 3 nieces in total, and who also has 1 daughter. How many male cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW++ VARIATION 3, MOD 5, her mother she has mod, male cousins, THINKING V2"
+    },
+    {
+        "id": 538,
+        "prompt": "Alice has 2 sisters and 1 brother in total. Her mother has 2 brothers. She also has 1 sister who does not have children and who has 2 nephews and 4 nieces in total. Alice's father has 2 sisters. He also has a brother who has 1 nephew and 4 nieces in total, and who also has 1 son. How many male cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW++ VARIATION 4, MOD 5, her mother she has mod, male cousins, THINKING V2"
+    },
+    {
+        "id": 539,
+        "prompt": "Alice has 2 sisters and 1 brother in total. Her mother has 2 brothers. She also has 1 sister who does not have children and who has 4 nephews and 3 nieces in total. Alice's father has a brother who has 1 nephew and 4 nieces in total, and who also has 1 son. How many male cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW++ VARIATION 5, MOD 5, her mother she has mod, male cousins, THINKING V2"
+    },
+    {
+        "id": 540,
+        "prompt": "Alice has 1 sister and 1 brother in total. Her mother has 2 brothers. She also has 1 sister who does not have children and who has 3 nephews and 4 nieces in total. Alice's father has 2 sisters. He also has a brother who has 4 nephews and 3 nieces in total, and who also has 1 son. How many male cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW++ VARIATION 6, MOD 5, her mother she has mod, male cousins, THINKING V2"
+    },
+    {
+        "id": 541,
+        "prompt": "Alice has 1 sister and 1 brother in total. Her mother has 2 brothers. She also has 1 sister who does not have children and who has 2 nephews and 4 nieces in total. Alice's father has 2 sisters. He also has a brother who has 1 nephew and 4 nieces in total, and who also has 2 sons. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW++ VARIATION 1, MOD 6, her mother she has mod, total cousins, THINKING V2"
+    },
+    {
+        "id": 542,
+        "prompt": "Alice has 2 sisters and 1 brother in total. Her mother has 2 brothers. She also has 1 sister who does not have children and who has 2 nephews and 4 nieces in total. Alice's father has 2 sisters. He also has a brother who has 1 nephew and 3 nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW++ VARIATION 2, MOD 6, her mother she has mod, total cousins, THINKING V2"
+    },
+    {
+        "id": 543,
+        "prompt": "Alice has 2 sisters and 1 brother in total. Her mother has 2 brothers. She also has 1 sister who does not have children and who has 3 nephews and 4 nieces in total. Alice's father has 2 sisters. He also has a brother who has 1 nephew and 4 nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW++ VARIATION 3, MOD 6, her mother she has mod, total cousins, THINKING V2"
+    },
+    {
+        "id": 544,
+        "prompt": "Alice has 1 sister and 3 brothers in total. Her mother has 2 brothers. She also has 1 sister who does not have children and who has 4 nephews and 2 nieces in total. Alice's father has 2 sisters. He also has a brother who has 3 nephews and 2 nieces in total, and who also has 1 daughter. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW++ VARIATION 4, MOD 6, her mother she has mod, total cousins, THINKING V2"
+    },
+    {
+        "id": 545,
+        "prompt": "Alice has 2 sisters and 1 brother in total. Her mother has 2 brothers. She also has 1 sister who does not have children and who has 2 nephews and 4 nieces in total. Alice's father has 2 sisters. He also has a brother who has 1 nephew and 4 nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW++ VARIATION 5, MOD 6, her mother she has mod, total cousins, THINKING V2"
+    },
+    {
+        "id": 546,
+        "prompt": "Alice has 1 sister and 1 brother in total. Her mother has 2 brothers. She also has 1 sister who does not have children and who has 2 nephews and 4 nieces in total. Alice's father has 2 sisters. He also has a brother who has 3 nephews and 2 nieces in total, and who also has 1 daughter. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW++ VARIATION 6, MOD 6, her mother she has mod, total cousins, THINKING V2"
+    },
+    {
+        "id": 547,
+        "prompt": "Alice and Bob are friends. Alice is female. Bob is male. Alice has 5 male friends in total. Bob has 8 female friends in total. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 548,
+        "prompt": "Alice and Bob are friends. Alice is female. Bob is male. Alice has 6 male friends in total. Bob has 4 female friends in total. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 549,
+        "prompt": "Alice and Bob are friends. Alice is female. Bob is male. Alice has 3 male friends in total. Bob has 6 female friends in total. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW VARIATION 3, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 550,
+        "prompt": "Alice and Bob are friends. Alice is female. Bob is male. Alice has 4 male friends in total. Bob has 3 female friends in total. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW VARIATION 4, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 551,
+        "prompt": "Alice and Bob are friends. Alice is female. Bob is male. Alice has 2 male friends in total. Bob has 5 female friends in total. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW VARIATION 5, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 552,
+        "prompt": "Alice and Bob are friends. Alice is female. Bob is male. Alice has 8 male friends in total. Bob has 7 female friends in total. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW VARIATION 6, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 553,
+        "prompt": "Alice and Bob are friends. Alice is female. Bob is male. Alice has 5 female friends in total. Bob has 6 male friends in total. All mentioned persons are friends with each other and have no other friends aside. How many male friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 554,
+        "prompt": "Alice and Bob are friends. Alice is female. Bob is male. Alice has 6 female friends in total. Bob has 2 male friends in total. All mentioned persons are friends with each other and have no other friends aside. How many male friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 555,
+        "prompt": "Alice and Bob are friends. Alice is female. Bob is male. Alice has 3 female friends in total. Bob has 4 male friends in total. All mentioned persons are friends with each other and have no other friends aside. How many male friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW VARIATION 3, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 556,
+        "prompt": "Alice and Bob are friends. Alice is female. Bob is male. Alice has 4 female friends in total. Bob has 1 male friend in total. All mentioned persons are friends with each other and have no other friends aside. How many male friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW VARIATION 4, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 557,
+        "prompt": "Alice and Bob are friends. Alice is female. Bob is male. Alice has 5 female friends in total. Bob has 3 male friends in total. All mentioned persons are friends with each other and have no other friends aside. How many male friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW VARIATION 5, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 558,
+        "prompt": "Alice and Bob are friends. Alice is female. Bob is male. Alice has 8 female friends in total. Bob has 5 male friends in total. All mentioned persons are friends with each other and have no other friends aside. How many male friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW VARIATION 6, THINKING V2, Friends Alice and Bob, Explicit Alice female friends"
+    },
+    {
+        "id": 559,
+        "prompt": "Alice has 1 sister and 1 brother in total. Her mother has 2 brothers. She also has 1 sister who does not have children and who has 6 nephews and nieces in total. Alice's father has 2 sisters. He also has a brother who has 5 nephews and nieces in total, and who also has 2 sons. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW+ VARIATION 1, MOD 6, her mother she has mod, total cousins, THINKING V2"
+    },
+    {
+        "id": 560,
+        "prompt": "Alice has 2 sisters and 1 brother in total. Her mother has 2 brothers. She also has 1 sister who does not have children and who has 6 nephews and nieces in total. Alice's father has 2 sisters. He also has a brother who has 4 nephews and nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW+ VARIATION 2, MOD 6, her mother she has mod, total cousins, THINKING V2"
+    },
+    {
+        "id": 561,
+        "prompt": "Alice has 2 sisters and 1 brother in total. Her mother has 2 brothers. She also has 1 sister who does not have children and who has 7 nephews and nieces in total. Alice's father has 2 sisters. He also has a brother who has 5 nephews and nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW+ VARIATION 3, MOD 6, her mother she has mod, total cousins, THINKING V2"
+    },
+    {
+        "id": 562,
+        "prompt": "Alice has 1 sister and 3 brothers in total. Her mother has 2 brothers. She also has 1 sister who does not have children and who has 6 nephews and nieces in total. Alice's father has 2 sisters. He also has a brother who has 5 nephews and nieces in total, and who also has 1 daughter. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW+ VARIATION 4, MOD 6, her mother she has mod, total cousins, THINKING V2"
+    },
+    {
+        "id": 563,
+        "prompt": "Alice has 2 sisters and 1 brother in total. Her mother has 2 brothers. She also has 1 sister who does not have children and who has 6 nephews and nieces in total. Alice's father has 2 sisters. He also has a brother who has 5 nephews and nieces in total, and who also has 1 son. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW+ VARIATION 5, MOD 6, her mother she has mod, total cousins, THINKING V2"
+    },
+    {
+        "id": 564,
+        "prompt": "Alice has 1 sister and 1 brother in total. Her mother has 2 brothers. She also has 1 sister who does not have children and who has 6 nephews and nieces in total. Alice's father has 2 sisters. He also has a brother who has 5 nephews and nieces in total, and who also has 1 daughter. How many cousins does Alice's sister have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW+ VARIATION 6, MOD 6, her mother she has mod, total cousins, THINKING V2"
+    },
+    {
+        "id": 565,
+        "prompt": "Alice has male friends and she also has female friends. Matilda is one of Alice's female friends. Matilda has 6 female friends in total. Bob is one of Matilda's male friends. Bob has 2 male friends in total. All mentioned persons are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, EXT+ Alice friends"
+    },
+    {
+        "id": 566,
+        "prompt": "Alice has male friends and she also has female friends. Matilda is one of Alice's female friends. Matilda has 2 female friends in total. Bob is one of Matilda's male friends. Bob has 3 male friends in total. All mentioned persons are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, EXT+ Alice friends"
+    },
+    {
+        "id": 567,
+        "prompt": "Alice has male friends and she also has female friends. Matilda is one of Alice's female friends. Matilda has 4 female friends in total. Bob is one of Matilda's male friends. Bob has 2 male friends in total. All mentioned persons are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW Variation 3, EXT+ Alice friends, THINKING V2"
+    },
+    {
+        "id": 568,
+        "prompt": "Alice has male friends and she also has female friends. Matilda is one of Alice's female friends. Matilda has 1 female friend in total. Bob is one of Matilda's male friends. Bob has 3 male friends in total. All mentioned persons are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW Variation 4, EXT+ Alice friends, THINKING V2"
+    },
+    {
+        "id": 569,
+        "prompt": "Alice has male friends and she also has female friends. Matilda is one of Alice's female friends. Matilda has 3 female friends in total. Bob is one of Matilda's male friends. Bob has 1 male friend in total. All mentioned persons are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW VARIATION 5, THINKING V2, EXT+ Alice friends"
+    },
+    {
+        "id": 570,
+        "prompt": "Alice has male friends and she also has female friends. Matilda is one of Alice's female friends. Matilda has 5 female friends in total. Bob is one of Matilda's male friends. Bob has 2 male friends in total. All mentioned persons are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW VARIATION 6, THINKING V2, EXT+ Alice friends"
+    },
+    {
+        "id": 571,
+        "prompt": "Alice has 3 male friends and she also has female friends. Matilda is one of Alice's female friends. Matilda has 6 female friends in total. All mentioned persons are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, EXT Alice friends"
+    },
+    {
+        "id": 572,
+        "prompt": "Alice has 4 male friends and she also has female friends. Matilda is one of Alice's female friends. Matilda has 2 female friends in total. All mentioned persons are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, EXT Alice friends"
+    },
+    {
+        "id": 573,
+        "prompt": "Alice has 2 male friends and she also has female friends. Matilda is one of Alice's female friends. Matilda has 4 female friends in total. All mentioned persons are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW Variation 3, EXT Alice friends, THINKING V2"
+    },
+    {
+        "id": 574,
+        "prompt": "Alice has 4 male friends and she also has female friends. Matilda is one of Alice's female friends. Matilda has 1 female friend in total. All mentioned persons are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW Variation 4, EXT Alice friends, THINKING V2"
+    },
+    {
+        "id": 575,
+        "prompt": "Alice has 2 male friends and she also has female friends. Matilda is one of Alice's female friends. Matilda has 3 female friends in total. All mentioned persons are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW VARIATION 5, THINKING V2, EXT Alice friends"
+    },
+    {
+        "id": 576,
+        "prompt": "Alice has 3 male friends and she also has female friends. Matilda is one of Alice's female friends. Matilda has 5 female friends in total. All mentioned persons are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW VARIATION 6, THINKING V2, EXT Alice friends"
+    },
+    {
+        "id": 577,
+        "prompt": "Alice has 3 male friends and she also has 6 female friends. All mentioned persons are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Alice friends, all mentioned persons version"
+    },
+    {
+        "id": 578,
+        "prompt": "Alice has 5 male friends in total and she also has female friends. Bob is one of Alice's male friends, and he has 8 female friends in total. All mentioned persons are friends with each other and have no other friends aside. How many female friends does Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Alice friends, Ext, Alice Bob Mod Minus One, all mentioned persons version"
+    },
+    {
+        "id": 579,
+        "prompt": "Alice has 8 male friends in total and she also has female friends. Bob is one of Alice's male friends, and he has 5 female friends in total. All mentioned persons are friends with each other and have no other friends aside. How many male friends does Bob have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "7",
+        "description": "AIW VARIATION 1, THINKING V2, Alice friends, Ext, Alice Bob Mod Minus One, all mentioned persons version"
+    },
+    {
+        "id": 580,
+        "prompt": "Alice has 2 female friends and she also has 4 male friends. All mentioned persons are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "3",
+        "description": "AIW VARIATION 2, THINKING V2, Alice friends, all mentioned persons version"
+    },
+    {
+        "id": 581,
+        "prompt": "Alice has 4 female friends and she also has 1 male friend. All mentioned persons are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "5",
+        "description": "AIW Variation 3, Alice friends, all mentioned persons version, THINKING V2, no output restriction, thinking carefully v2 - step by step"
+    },
+    {
+        "id": 582,
+        "prompt": "Alice has 4 male friends and she also has 1 female friend. All mentioned persons are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "2",
+        "description": "AIW Variation 4, Alice friends, all mentioned persons version, THINKING V2, no output restriction, thinking carefully v2 - step by step"
+    },
+    {
+        "id": 583,
+        "prompt": "Alice has 2 male friends and she also has 3 female friends. All mentioned persons are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "4",
+        "description": "AIW VARIATION 5, THINKING V2, Alice friends, all mentioned persons version"
+    },
+    {
+        "id": 584,
+        "prompt": "Alice has 5 female friends and she also has 3 male friends. All mentioned persons are friends with each other and have no other friends aside. How many female friends does male friend of Alice have? Before providing answer to this problem, think carefully step by step and double check the path to the correct solution for any mistakes. Provide then the final answer in following form: \"### Answer: \".",
+        "right_answer": "6",
+        "description": "AIW VARIATION 6, THINKING V2, Alice friends, all mentioned persons version"
     }
 ]
