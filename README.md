@@ -1,4 +1,4 @@
-# Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in State-Of-the-Art Large Language Models
+# Alice in Wonderland: Variations in Simple Problems Reveal Severe Generalization Deficits in Large Language and Reasoning Models
 
 ## Repo structure
 
